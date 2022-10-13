@@ -1,0 +1,8 @@
+echo \
+echo "\"
+echo \a
+echo "\a"
+echo x\ty
+echo "x\ty"
+echo -e x\ty
+echo -e "x\ty"
